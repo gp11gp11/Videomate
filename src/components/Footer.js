@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer">
         <section className="footer-links content-container">
           <div className="text-center p-4">
-            <a className="text-reset fw-bold" href="https://github.com/AkhileshThite/dtube/">GitHub</a>
+            <a className="text-reset fw-bold" href="https://github.com/gp11gp11/Videomate/">GitHub</a>
           </div>
         </section>
       </div>
